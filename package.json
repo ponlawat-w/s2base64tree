@@ -1,0 +1,19 @@
+{
+  "name": "s2base64tree",
+  "version": "0.1.0",
+  "description": "Conversion between tree and base64 s2cells",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponlawat-w/s2base64tree.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponlawat-w/s2base64tree/issues"
+  },
+  "homepage": "https://github.com/ponlawat-w/s2base64tree#readme"
+}
